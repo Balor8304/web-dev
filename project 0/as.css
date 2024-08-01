@@ -8,6 +8,7 @@ label{
     margin:10px;
     padding:10px;
     display:inline-block;
+    width: 200px;
 }
 input{
     width:300px;
@@ -25,4 +26,7 @@ input{
 #btn3{
     background-color: blue;
     color: white;
+}
+#ad{
+  width:fit-content
 }
